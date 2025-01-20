@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "Product 1",
+      "warehouse": "wh1",
+      "type": "typeA",
+      "quantity": 50
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "warehouse": "wh1",
+      "type": "typeA",
+      "quantity": 30
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "warehouse": "wh1",
+      "type": "typeB",
+      "quantity": 0
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "warehouse": "wh2",
+      "type": "typeB",
+      "quantity": 20
+    },
+    {
+      "id": 5,
+      "name": "Product 5",
+      "warehouse": "wh2",
+      "type": "typeC",
+      "quantity": 10
+    }
+  ]

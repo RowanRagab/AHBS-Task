@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "typeA",
+    "warehouse": "wh1"
+  },
+  {
+    "id": 2,
+    "name": "typeB",
+    "warehouse": "wh1"
+  },
+  {
+    "id": 3,
+    "name": "typeG",
+    "warehouse": "wh1"
+  },
+  {
+    "id": 4,
+    "name": "typeB",
+    "warehouse": "wh2"
+  },
+  {
+    "id": 5,
+    "name": "typeC",
+    "warehouse": "wh2"
+  },
+  {
+    "id": 6,
+    "name": "typeE",
+    "warehouse": "wh2"
+  }
+]
